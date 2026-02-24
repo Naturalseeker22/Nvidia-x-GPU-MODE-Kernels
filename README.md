@@ -4,7 +4,7 @@ NVFP4 CUDA kernels for the Blackwell B200 GPU, written for the [Blackwell NVFP4 
 
 Three kernels — Grouped GEMM, Dual GEMM (with fused SiLU), and GEMV — all operating in FP4 (E2M1) with block-wise scaling on sm_100a.
 
-For a deeper dive into the techniques used, check out the blog: [Nvidia x GPU-MODE Kernels](https://naturalseeker22.github.io/#/blog/gpu-mode-kernels-top-10)
+For a deeper dive into the techniques used, check out the blog: [Nvidia x GPU-MODE Kernels[Top 10]](https://naturalseeker22.github.io/#/blog/gpu-mode-kernels-top-10)
 
 ---
 
