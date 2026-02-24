@@ -1,3 +1,2 @@
 # Nvidia-x-GPU-MODE-Kernels
-Cuda/PTX kernels for Nvidia Gpu mode comp
-Dual_gemm will be updated as soon as the comp ends
+Repo for Group_gemm, Dual_gemm and Gemv for nvfp4 blackwell B200 GPU. 
